@@ -1,1 +1,6 @@
 C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\bin\Debug\MySnake.exe.config
+C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\obj\Debug\MySnake.csprojResolveAssemblyReference.cache
+C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\bin\Debug\MySnake.exe
+C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\bin\Debug\MySnake.pdb
+C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\obj\Debug\MySnake.exe
+C:\Users\reimo\Documents\Git\MySnake\MySnake\MySnake\obj\Debug\MySnake.pdb
